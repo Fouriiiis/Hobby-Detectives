@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Board
+comment1.params=oldPos\ newPos
+comment1.target=void\ update(Pos,\ Pos)
+comment1.text=\r\n\ update\ the\ board\ and\ reprint\ it\r\n
+comment2.params=
+comment2.target=char[][]\ grid()
+comment3.params=players
+comment3.target=void\ setup(java.util.List)
+comment3.text=SETUP()\ HELPER\ METHODS
+comment4.params=
+comment4.target=void\ initializeBoard()
+comment5.params=
+comment5.target=void\ addEstatesToBoard()
+comment6.params=
+comment6.target=void\ addWallsToBoard()
+comment7.params=players
+comment7.target=void\ addPlayersToBoard(java.util.List)
+numComments=8

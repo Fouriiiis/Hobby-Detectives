@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=StateManager
+comment1.params=
+comment1.target=StateManager()
+comment2.params=newState
+comment2.target=void\ switchTo(States)
+comment2.text=switches\ the\ state\ of\ the\ game\ to\ 'newState'
+comment3.params=
+comment3.target=void\ draw()
+comment4.params=title\ newState
+comment4.target=javax.swing.JButton\ createTransitionButton(java.lang.String,\ States)
+comment4.text=create\ and\ return\ a\ button\ that\ transitions\ to\ 'newState'
+comment5.params=
+comment5.target=javax.swing.JButton\ createExitButton()
+comment5.text=create\ and\ return\ a\ button\ that\ closes/ends\ the\ program
+comment6.params=
+comment6.target=javax.swing.JMenuBar\ createMenuBar()
+comment6.text=create\ and\ return\ the\ menu\ bar\ for\ the\ frame
+numComments=7

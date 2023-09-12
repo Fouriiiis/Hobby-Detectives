@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Circumstance
+comment1.params=cards
+comment1.target=Circumstance(java.util.List)
+comment2.params=other
+comment2.target=boolean\ equals(Circumstance)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=S_RefuteGuess
+comment1.params=gameData\ guess\ refuter
+comment1.target=S_RefuteGuess(GameData,\ Circumstance,\ Player)
+comment2.params=
+comment2.target=void\ draw()
+comment3.params=
+comment3.target=boolean\ ifPlayerCanNotRefuteGuess()
+comment3.text=\r\n\ if\ the\ player\ can\ not\ refute\ the\ guess\ go\ to\ the\ next\ player\r\n\ or\ add\ the\ guess\ to\ the\ list\ of\ potential\ solutions\r\n
+comment4.params=
+comment4.target=void\ setNonRefutingCardButtons()
+comment4.text=create\ and\ set\ the\ buttons\ corresponding\ to\ non-refuting\ cards\ to\ the\ display
+comment5.params=
+comment5.target=void\ setRefutingCardButtons()
+comment5.text=create\ and\ set\ the\ buttons\ corresponding\ to\ refuting\ cards\ to\ the\ display
+comment6.params=
+comment6.target=void\ goToNextState()
+comment6.text=\r\n\ if\ there\ are\ potential\ solutions\ give\ the\ current\ player\ to\ option\ to\ make\ a\ solve\r\n\ else\ start\ the\ next\ players\ turn\r\n
+numComments=7

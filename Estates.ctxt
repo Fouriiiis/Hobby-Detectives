@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Estates
+comment1.params=startPos
+comment1.target=java.util.List\ occupantPositions(Pos)
+comment2.params=pos
+comment2.target=Estate\ getEstate(Pos)
+comment2.text=\r\n\ return\ the\ estate\ the\ door\ at\ position\ 'pos'\ is\ a\ part\ of\r\n
+numComments=3

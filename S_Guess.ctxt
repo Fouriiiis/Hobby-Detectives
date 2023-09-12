@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=S_Guess
+comment1.params=gameData
+comment1.target=S_Guess(GameData)
+comment2.params=
+comment2.target=void\ draw()
+comment3.params=
+comment3.target=void\ moveWeapon()
+comment3.text=\r\n\ move\ the\ selected\ weapon\ from\ its\ old\ estate\ to\ the\ guess'\ estate\r\n
+comment4.params=
+comment4.target=void\ movePlayer()
+comment4.text=\r\n\ move\ the\ selected\ player\ from\ where\ they\ were\ to\ the\ guess'\ estate\r\n
+comment5.params=list
+comment5.target=Card[]\ cardListToArray(java.util.List)
+comment6.params=e
+comment6.target=void\ itemStateChanged(java.awt.event.ItemEvent)
+numComments=7

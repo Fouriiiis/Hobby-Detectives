@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=S_PlayerSelect
+comment1.params=num\ currentPlayerOrder
+comment1.target=S_PlayerSelect(int,\ java.util.List)
+comment2.params=num
+comment2.target=S_PlayerSelect(int)
+comment3.params=
+comment3.target=void\ draw()
+comment4.params=
+comment4.target=void\ createOptionRadioButtons()
+comment4.text=create\ the\ option\ buttons\ and\ add\ them\ to\ the\ display
+comment5.params=
+comment5.target=javax.swing.JButton\ createConfirmButton()
+comment5.text=\r\n\ create\ and\ return\ the\ confirm\ button\r\n\ which\ confirms\ the\ player\ choice\ and\ adds\ the\ player\r\n\ to\ the\ current\ player\ order\r\n
+numComments=6

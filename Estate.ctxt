@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Estate
+comment1.params=n\ p\ s\ ktd\ gPos
+comment1.target=Estate(java.lang.String,\ Pos,\ Pos,\ java.util.Map,\ java.util.List)
+comment2.params=
+comment2.target=java.util.Set\ weapons()
+comment3.params=w
+comment3.target=void\ addWeapon(Weapon)
+comment4.params=w
+comment4.target=void\ removeWeapon(Weapon)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=S_Refutions
+comment1.params=gameData\ guess
+comment1.target=S_Refutions(GameData,\ Circumstance)
+comment2.params=
+comment2.target=void\ draw()
+numComments=3

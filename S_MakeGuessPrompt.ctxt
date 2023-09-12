@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=S_MakeGuessPrompt
+comment1.params=gameData
+comment1.target=S_MakeGuessPrompt(GameData)
+comment2.params=
+comment2.target=void\ draw()
+numComments=3

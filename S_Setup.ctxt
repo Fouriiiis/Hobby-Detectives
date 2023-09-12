@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=S_Setup
+comment1.params=playerOrder\ numOfPlayers
+comment1.target=S_Setup(java.util.List,\ int)
+comment2.params=
+comment2.target=S_Setup()
+comment3.params=
+comment3.target=void\ draw()
+comment4.params=e
+comment4.target=void\ keyPressed(java.awt.event.KeyEvent)
+numComments=5

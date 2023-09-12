@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=S_Turn
+comment1.params=gameData
+comment1.target=S_Turn(GameData)
+comment2.params=
+comment2.target=void\ draw()
+comment3.params=
+comment3.target=void\ createMoveButtons()
+comment4.params=player
+comment4.target=void\ setCurrentState(Player)
+comment5.params=
+comment5.target=java.lang.String\ turnInfo()
+numComments=6

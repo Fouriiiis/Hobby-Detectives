@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=S_MakeSolveAttempt
+comment1.params=gameData
+comment1.target=S_MakeSolveAttempt(GameData)
+comment2.params=
+comment2.target=void\ draw()
+comment3.params=
+comment3.target=javax.swing.JButton\ createConfirmButton()
+comment4.params=list
+comment4.target=Circumstance[]\ circumstanceListToArray(java.util.List)
+comment4.text=\ converts\ a\ list\ of\ Circumstance\ objects\ into\ an\ array\r\n\ \ (used\ only\ in\ the\ construction\ of\ the\ JComboBox)\r\n
+comment5.params=e
+comment5.target=void\ itemStateChanged(java.awt.event.ItemEvent)
+numComments=6
